@@ -69,8 +69,8 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - Họ tên:
 - MSSV:
 - Lớp:
-- Hệ điều hành:
-- Python version:
-- Torch version:
-- Thiết bị chạy: CPU / GPU
-- Ghi chú lỗi gặp phải khi setup (nếu có):
+- Hệ điều hành: Windows 11
+- Python version: 3.12.6
+- Torch version: 2.11.0+cpu
+- Thiết bị chạy: CPU
+- Ghi chú lỗi gặp phải khi setup (nếu có): Không có
